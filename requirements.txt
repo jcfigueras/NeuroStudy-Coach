@@ -1,0 +1,4 @@
+# NeuroStudy Coach – minimal scaffold dependencies
+# Add sentence-transformers, faiss-cpu, pymupdf/pypdf when implementing those features.
+
+streamlit>=1.28.0
